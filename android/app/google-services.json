@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020735028944",
+    "project_id": "musicapp-89a7b",
+    "storage_bucket": "musicapp-89a7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020735028944:android:94b998bde8591a836e68d5",
+        "android_client_info": {
+          "package_name": "com.chalisa.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020735028944-ju074sakfhhqm64q6dmfs2198ojpgffa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVwxzionaRanK_WaFD5EomNd4XLcBDEkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020735028944-ju074sakfhhqm64q6dmfs2198ojpgffa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
