@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1020735028944-jjlqhoiht9ja0fq7m0omqe9aisr9sqg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chalisa.music_app",
+            "certificate_hash": "5e28123ba630eb292a659a83b9cb3b56c1c8b5e9"
+          }
+        },
+        {
           "client_id": "1020735028944-ju074sakfhhqm64q6dmfs2198ojpgffa.apps.googleusercontent.com",
           "client_type": 3
         }
